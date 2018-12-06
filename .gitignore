@@ -1,2 +1,3 @@
 node_modules/
 server/config/config.json
+package-lock.json
